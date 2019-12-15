@@ -2,4 +2,4 @@ function add(a,b){
     return a+b;
 }
 let sum=add(2,3);
-console.log("The Sum",sum);
+console.log("The Sum is",sum);
