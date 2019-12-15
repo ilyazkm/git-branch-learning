@@ -1,5 +1,5 @@
-function add(a,b){
-    return a+b;
+function mul(a,b){
+    return a*b;
 }
-let sum=add(2,3);
-console.log("The Sum is",sum);
+let result=mul(2,3);
+console.log("The Result is",result);
